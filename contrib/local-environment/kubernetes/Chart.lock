@@ -4,12 +4,12 @@ dependencies:
   version: 0.16.0
 - name: oauth2-proxy
   repository: https://oauth2-proxy.github.io/manifests
-  version: 6.23.1
+  version: 7.5.4
 - name: httpbin
   repository: https://conservis.github.io/helm-charts
   version: 1.1.0
 - name: hello-world
   repository: https://conservis.github.io/helm-charts
   version: 1.1.0
-digest: sha256:00b9fe9ea476c873550f9ee1feef25f789053cd7333e68b1116212840dead0fb
-generated: "2024-01-27T09:00:30.255018+01:00"
+digest: sha256:cefe6dcdf5b4aa635f83cbc7e04906a2f162960bbdb32945290beecf951b73b5
+generated: "2024-05-10T10:28:58.357541359Z"
